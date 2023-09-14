@@ -1,0 +1,33 @@
+object Form1: TForm1
+  Left = -757
+  Height = 308
+  Top = -878
+  Width = 366
+  Caption = 'Form1'
+  ClientHeight = 308
+  ClientWidth = 366
+  LCLVersion = '2.2.6.0'
+  object btnObj: TBitBtn
+    Left = 32
+    Height = 30
+    Top = 16
+    Width = 75
+    Caption = 'Objeto'
+    TabOrder = 0
+  end
+  object btnConstruct: TBitBtn
+    Left = 136
+    Height = 30
+    Top = 16
+    Width = 75
+    Caption = 'Construtor'
+    TabOrder = 1
+  end
+  object memResult: TMemo
+    Left = 32
+    Height = 225
+    Top = 56
+    Width = 305
+    TabOrder = 2
+  end
+end

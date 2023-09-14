@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="projDPBuilder.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Main"/>
+        <CursorPos X="14" Y="29"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="upessoas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UPessoas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="44" Y="7"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="utelefone.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UTelefone"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="15"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="utipotelefone.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uTipoTelefone"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="61" Y="11"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="7">
+      <Position>
+        <Filename Value="utelefone.pas"/>
+        <Caret Line="18" Column="24"/>
+      </Position>
+      <Position>
+        <Filename Value="utelefone.pas"/>
+        <Caret Line="24"/>
+      </Position>
+      <Position>
+        <Filename Value="utelefone.pas"/>
+        <Caret Line="15" Column="49"/>
+      </Position>
+      <Position>
+        <Filename Value="utelefone.pas"/>
+        <Caret Line="18" Column="68"/>
+      </Position>
+      <Position>
+        <Filename Value="utelefone.pas"/>
+        <Caret Line="15" Column="64"/>
+      </Position>
+      <Position>
+        <Filename Value="utelefone.pas"/>
+        <Caret Line="24" Column="38"/>
+      </Position>
+      <Position>
+        <Filename Value="utipotelefone.pas"/>
+        <Caret Line="16" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="utipotelefone.pas"/>
+        <Caret Line="18" Column="41"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

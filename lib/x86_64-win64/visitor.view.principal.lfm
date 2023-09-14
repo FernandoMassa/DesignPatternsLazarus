@@ -1,0 +1,51 @@
+object Form1: TForm1
+  Left = -768
+  Height = 393
+  Top = -818
+  Width = 716
+  Caption = 'Form1'
+  ClientHeight = 393
+  ClientWidth = 716
+  OnCreate = FormCreate
+  LCLVersion = '2.2.6.0'
+  object btnNormal: TButton
+    Left = 80
+    Height = 25
+    Top = 120
+    Width = 184
+    Caption = 'Preço Normal'
+    OnClick = btnNormalClick
+    TabOrder = 0
+  end
+  object btnPromocao: TButton
+    Left = 80
+    Height = 25
+    Top = 168
+    Width = 184
+    Caption = 'Preço Promoção'
+    OnClick = btnPromocaoClick
+    TabOrder = 1
+  end
+  object cbxTipo: TComboBox
+    Left = 80
+    Height = 23
+    Top = 80
+    Width = 184
+    ItemHeight = 15
+    ItemIndex = 0
+    Items.Strings = (
+      'Varejo'
+      'Atacado'
+    )
+    TabOrder = 2
+    Text = 'Varejo'
+  end
+  object edtPreco: TEdit
+    Left = 312
+    Height = 23
+    Top = 80
+    Width = 176
+    TabOrder = 3
+    Text = '10'
+  end
+end

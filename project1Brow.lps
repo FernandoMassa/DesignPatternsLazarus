@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1Brow.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit1brow.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unit1Brow"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="14"/>
+        <CursorPos X="15" Y="33"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\massa\AppData\Local\lazarus\onlinepackagemanager\packages\CEF4Delphi\source\uCEFApplication.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="265"/>
+        <CursorPos Y="277"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="10">
+      <Position>
+        <Filename Value="unit1brow.pas"/>
+        <Caret Line="8" Column="68"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1brow.pas"/>
+        <Caret Line="28" Column="37"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1brow.pas"/>
+        <Caret Line="29" Column="69"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1brow.pas"/>
+        <Caret Line="28" Column="69" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1brow.pas"/>
+        <Caret Line="9" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1brow.pas"/>
+        <Caret Line="36" Column="20" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1brow.pas"/>
+        <Caret Line="37" Column="18" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1brow.pas"/>
+        <Caret Line="38" Column="18" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1brow.pas"/>
+        <Caret Line="37" Column="18" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1brow.pas"/>
+        <Caret Line="36" Column="18" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="unit1brow.pas"/>
+        <Caret Line="5" Column="12"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
